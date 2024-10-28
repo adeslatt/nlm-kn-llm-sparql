@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "arangojs": "^9.1.0"
+  }
+}
